@@ -18,5 +18,17 @@
 5. 英雄联盟（LOL）桌面端官网仿制
 [代码地址](https://github.com/MAJIANYANG666/git-demo3/tree/master/pro32-1-lol-index)
 [预览地址](https://majianyang666.github.io/git-demo3/pro32-1-lol-index/index.html)
+
+6. 移动端Canvas涂鸦小工具
+[代码地址](https://github.com/MAJIANYANG666/git-demo3/tree/master/pro34-1-canvas)
+[预览地址](https://majianyang666.github.io/git-demo3/pro34-1-canvas/prc34-1.html)
+
+7. vue to-do应用
+[代码地址](https://github.com/MAJIANYANG666/vue/tree/master/step-5)
+[预览地址](https://majianyang666.github.io/vue/step-3/page.html)
+
+8. React to-do应用
+[代码地址](https://github.com/MAJIANYANG666/react)
+[预览地址](https://majianyang666.github.io/react/build/index.html)
                        
                  
