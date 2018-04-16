@@ -29,6 +29,6 @@
 
 8. React to-do应用
 [代码地址](https://github.com/MAJIANYANG666/react)
-[预览地址](https://majianyang666.github.io/react/build/index.html)
+[预览地址](https://majianyang666.github.io/react-2/build/index.html)
                        
                  
