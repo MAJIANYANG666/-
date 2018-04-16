@@ -25,7 +25,7 @@
 
 7. vue to-do应用
 [代码地址](https://github.com/MAJIANYANG666/vue/tree/master/step-5)
-[预览地址](https://majianyang666.github.io/vue/step-3/page.html)
+[预览地址](https://majianyang666.github.io/vue/step-5/page.html)
 
 8. React to-do应用
 [代码地址](https://github.com/MAJIANYANG666/react)
