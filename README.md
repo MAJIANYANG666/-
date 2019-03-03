@@ -1,11 +1,18 @@
 # 项目网址：
-1. 一个MVVM库
+
+                        
+1. 导购app+后台管理系统
+[导购app代码地址](https://github.com/MAJIANYANG666/VueShopApp)
+[后台管理系统](https://github.com/MAJIANYANG666/Background-Management-System)
+不能直接预览，需要克隆到本地运行。
+
+2. 一个MVVM库
 [代码地址](https://github.com/MAJIANYANG666/MVVM)
 [预览地址](https://majianyang666.github.io/MVVM/index.html)
-                        
-2. 导购app
-[代码地址](https://github.com/MAJIANYANG666/VueShopApp)
-不能直接预览，需要克隆到本地运行。
+
+2.保险系统
+[代码地址](https://github.com/MAJIANYANG666/allfly-project/tree/dev)
+不能直接预览，项目还在开发中。
 
 3. 网易云音乐移动端应用
 [代码地址](https://github.com/MAJIANYANG666/music-demo-201708)
@@ -30,5 +37,7 @@
 8. React to-do应用
 [代码地址](https://github.com/MAJIANYANG666/react)
 [预览地址](https://majianyang666.github.io/react-2/build/index.html)
-                       
-                 
+                      
+## react 全家桶学习项目（他人的，拉代码学习）
+1. react app
+[代码地址](https://github.com/MAJIANYANG666/react-pxq)
