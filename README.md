@@ -3,7 +3,7 @@
                         
 1. 导购app+后台管理系统
 [导购app代码地址](https://github.com/MAJIANYANG666/VueShopApp)
-[后台管理系统](https://github.com/MAJIANYANG666/Background-Management-System)
+[后台管理系统代码地址](https://github.com/MAJIANYANG666/Background-Management-System)
 不能直接预览，需要克隆到本地运行。
 
 2. 一个MVVM库
@@ -38,6 +38,10 @@
 [代码地址](https://github.com/MAJIANYANG666/react)
 [预览地址](https://majianyang666.github.io/react-2/build/index.html)
                       
-## react 全家桶学习项目（他人的，拉代码学习）
+                      
+                      
+### react 全家桶学习项目（他人的，拉代码学习）
+
+
 1. react app
 [代码地址](https://github.com/MAJIANYANG666/react-pxq)
